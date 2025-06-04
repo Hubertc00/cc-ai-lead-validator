@@ -1,1 +1,0 @@
-# cc-ai-lead-validator
